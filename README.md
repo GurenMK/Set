@@ -1,3 +1,3 @@
-# Set
+# SetUnbounded
 
-Simple set implementation
+Simple unbounded set implementation
